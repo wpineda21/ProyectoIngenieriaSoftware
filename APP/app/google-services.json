@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "911169615726",
+    "project_id": "sybmarketplaceapp",
+    "storage_bucket": "sybmarketplaceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911169615726:android:9cdac0c9fdba048f7e337f",
+        "android_client_info": {
+          "package_name": "com.mcmp2023.s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911169615726-vcmq712epvobea8u9eah1jb1qcbkfet0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPk3au6aWjnlYK3hGOLSHHeOtEHHgqRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911169615726-vcmq712epvobea8u9eah1jb1qcbkfet0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911169615726:android:ae63e28062007ee27e337f",
+        "android_client_info": {
+          "package_name": "com.mcmp2023.sybmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911169615726-vcmq712epvobea8u9eah1jb1qcbkfet0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPk3au6aWjnlYK3hGOLSHHeOtEHHgqRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911169615726-vcmq712epvobea8u9eah1jb1qcbkfet0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
